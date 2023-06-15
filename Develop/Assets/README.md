@@ -9,9 +9,11 @@ To complete this project I created a JavaScript file and wrote the code to run t
 
 ## Installation
 
-The project is deployed using GitHub and available with this URL:
+The project is deployed using GitHub and available with this URL:https://alyssapidgeon.github.io/Password-generator/
 
-Here is a screenshot of the deployed web application:
+Here is a screenshot of the web application: `md
+    ![Password-generator-image](./Images/Password-generator-website-img.PNG)
+    `
 
 ## License
 
